@@ -37,7 +37,7 @@
   <a href="mailto:muskankhatwani15@gmail.com"><img src="https://img.shields.io/badge/Email-muskankhatwani15%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://muskankhatwani15.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ## About Me
