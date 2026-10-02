@@ -1,20 +1,22 @@
 # Muskan Khatwani
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B5BFD&center=true&vCenter=true&width=700&lines=Software+Engineer;C%2B%2B+%7C+AB+Suite;Debugging+%7C+Systems+Engineering;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B5BFD&center=true&vCenter=true&width=700&lines=Software+Engineer;C%2B%2B+%7C+AB+Suite;Debugging+%7C+Systems+Engineering;DSA+%7C+Problem+Solving;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:muskankhatwani15@gmail.com"><img src="https://img.shields.io/badge/Email-muskankhatwani15%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-0A0F1E?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/MuskanKhatwani1234/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-MuskanKhatwani1234-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ## About Me
 
 I am a Software Engineer with hands-on experience in C++, AB Suite, low-level debugging, runtime issue analysis, and enterprise software troubleshooting. I enjoy solving production problems, understanding execution flow, and building reliable systems that scale.
 
-With 4 years of experience, I work across large C++ codebases, debugger workflows, build validation, and runtime defect analysis in enterprise products used by global customers.
+With 4 years of experience, I work across large C++ codebases, debugger workflows, build validation, and runtime defect analysis in enterprise products used by global customers. I am also passionate about DSA, problem solving, and writing clean, testable engineering solutions.
 
 ## Current Focus
 
@@ -22,6 +24,7 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 - AB Suite product engineering
 - runtime and debugger issue analysis
 - build and CI/CD reliability
+- data structures & algorithms
 - open-source C++ contribution
 
 ## Tech Stack
@@ -30,19 +33,41 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Core C++ / Systems
+### Frontend / Backend / Tools
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WinDbg](https://img.shields.io/badge/WinDbg-000000?style=for-the-badge)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### DSA / Problem Solving
+
+![Data%20Structures](https://img.shields.io/badge/DSA-Arrays_Strings_Stacks_Queues-8A2BE2?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-DFS_BFS_Weighted-00C7B7?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Trees-BST_Heaps_Traversal-FF7F50?style=for-the-badge)
+![Dynamic%20Programming](https://img.shields.io/badge/Dynamic_Programming-Top-Down_Bottom-Up-FFD43B?style=for-the-badge)
+
+## Project Links
+
+- [Portfolio Website](https://muskankhatwani15.github.io/)
+- [TCP Chat Server](https://github.com/muskankhatwani15/chatapp)
+- [Log Analyzer](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
+- [Concise Summarize](https://muskankhatwani15.github.io/concise-summarize/)
+- [Medicaid System](https://muskankhatwani15.github.io/Medicaid/)
 
 ## Experience Snapshot
 
@@ -74,6 +99,7 @@ A multithreaded C++ chat server using Winsock2 with real-time broadcast messagin
 - std::thread
 - std::mutex
 - RAII + smart pointers
+- [GitHub Repo](https://github.com/muskankhatwani15/chatapp)
 
 ### 2) Log Analyzer
 A C++17 tool that parses build/test logs and classifies compiler errors, linker errors, and test failures.
@@ -82,14 +108,16 @@ A C++17 tool that parses build/test logs and classifies compiler errors, linker 
 - STL
 - CMake
 - GoogleTest
+- [GitHub Repo](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
 
 ### 3) Concise Summarize
-A React + Azure OpenAI app that converts transcripts into concise summaries for easier reading.
+A React + Azure OpenAI app that turns transcripts into short, readable summaries.
 
 - React.js
 - Vite
 - Tailwind CSS
 - Azure OpenAI
+- [Live Demo](https://muskankhatwani15.github.io/concise-summarize/)
 
 ### 4) Medicaid System
 A healthcare management website with medicine listings, patient queries, and appointment scheduling.
@@ -97,14 +125,27 @@ A healthcare management website with medicine listings, patient queries, and app
 - HTML
 - CSS
 - PHP
+- [Live Demo](https://muskankhatwani15.github.io/Medicaid/)
 
 ## Open Source Contribution
 
 I contributed to `fmtlib/fmt` and worked on a GCC 16 LTO warning fix related to buffer sizing in `write_significand`.
 
+- Project: [fmtlib/fmt](https://github.com/fmtlib/fmt)
 - Fix: `digits10() + 2` → `digits10() + 3`
 - Validation: GCC/G++ 16.2.0 with LTO and CMake/MSYS2 UCRT64
 - Result: warning removed in the full fmt build, with 47 checks passing
+
+## DSA Practice
+
+I regularly solve algorithmic problems focusing on:
+
+- Arrays, strings, hashes, sorting, and searching
+- Stacks, queues, trees, graphs, and heaps
+- Dynamic programming and greedy approaches
+- Recursion, backtracking, and optimization
+
+[LeetCode Profile](https://leetcode.com/u/MuskanKhatwani1234/)
 
 ## Education
 
@@ -123,7 +164,9 @@ CGPA: 8.84
 ## Contact
 
 - Email: [muskankhatwani15@gmail.com](mailto:muskankhatwani15@gmail.com)
+- Portfolio: [muskankhatwani15.github.io](https://muskankhatwani15.github.io/)
 - GitHub: [github.com/muskankhatwani15](https://github.com/muskankhatwani15)
 - LinkedIn: [linkedin.com/in/muskankhatwani15](https://www.linkedin.com/in/muskankhatwani15)
+- LeetCode: [leetcode.com/u/MuskanKhatwani1234](https://leetcode.com/u/MuskanKhatwani1234/)
 
-> Open to opportunities in C++, systems engineering, debugging, and enterprise software development.
+> Open to opportunities in C++, systems engineering, debugging, DSA, and enterprise software development.
