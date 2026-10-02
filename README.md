@@ -19,8 +19,6 @@
   <rect x="10" y="10" width="840" height="70" rx="18" fill="url(#bgGlow)" stroke="#2D3748"/>
   <rect x="30" y="24" width="330" height="42" rx="12" fill="#0F172A" stroke="#334155"/>
   <text x="195" y="52" text-anchor="middle" font-size="22" font-family="Verdana, Arial, sans-serif" font-weight="700" fill="#E2E8F0">Software Engineer</text>
-  <text x="430" y="52" text-anchor="middle" font-size="20" font-family="Verdana, Arial, sans-serif" fill="#93C5FD">C++ • AB Suite • DSA</text>
-  <text x="690" y="52" text-anchor="middle" font-size="20" font-family="Verdana, Arial, sans-serif" fill="#A7F3D0">Open Source</text>
   <path d="M30 58H830" stroke="url(#lineGrad)" stroke-width="3" stroke-linecap="round">
     <animate attributeName="stroke-dasharray" values="0 800;220 580;0 800" dur="3.8s" repeatCount="indefinite"/>
   </path>
@@ -39,9 +37,6 @@
   <a href="mailto:muskankhatwani15@gmail.com"><img src="https://img.shields.io/badge/Email-muskankhatwani15%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
   <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
@@ -90,7 +85,7 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![Azure](https://img.shields.io/badge/Azure-Cloud_DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Frontend / Web
+### Web
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -99,7 +94,7 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### DSA / Problem Solving
+### Problem Solving
 
 ![DSA](https://img.shields.io/badge/DSA-Arrays_Stacks_Queues_Strings-8A2BE2?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Graphs-DFS_BFS_Weighted-00C7B7?style=for-the-badge)
@@ -138,38 +133,18 @@ August 2022 — February 2025
 
 ### TCP Chat Server
 A multithreaded C++ chat server using Winsock2 with real-time broadcast messaging and thread-safe state management.
-
-- C++
-- Winsock2
-- std::thread
-- std::mutex
-- RAII + smart pointers
 - [GitHub Repo](https://github.com/muskankhatwani15/chatapp)
 
 ### Log Analyzer
 A C++17 tool that parses build/test logs and classifies compiler errors, linker errors, and test failures.
-
-- C++17
-- STL
-- CMake
-- GoogleTest
 - [GitHub Repo](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
 
 ### Concise Summarize
 A React + Azure OpenAI app that turns transcripts into short, readable summaries.
-
-- React.js
-- Vite
-- Tailwind CSS
-- Azure OpenAI
 - [Live Demo](https://muskankhatwani15.github.io/concise-summarize/)
 
 ### Medicaid System
 A healthcare management website with medicine listings, patient queries, and appointment scheduling.
-
-- HTML
-- CSS
-- PHP
 - [Live Demo](https://muskankhatwani15.github.io/Medicaid/)
 
 ## Open Source Contribution
