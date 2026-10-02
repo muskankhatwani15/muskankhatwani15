@@ -9,7 +9,6 @@
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-0A0F1E?logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/u/MuskanKhatwani1234/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-MuskanKhatwani1234-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ## About Me
@@ -49,9 +48,7 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### DSA / Problem Solving
@@ -91,7 +88,7 @@ August 2022 — February 2025
 
 ## Featured Projects
 
-### 1) TCP Chat Server
+### TCP Chat Server
 A multithreaded C++ chat server using Winsock2 with real-time broadcast messaging and thread-safe state management.
 
 - C++
@@ -101,7 +98,7 @@ A multithreaded C++ chat server using Winsock2 with real-time broadcast messagin
 - RAII + smart pointers
 - [GitHub Repo](https://github.com/muskankhatwani15/chatapp)
 
-### 2) Log Analyzer
+### Log Analyzer
 A C++17 tool that parses build/test logs and classifies compiler errors, linker errors, and test failures.
 
 - C++17
@@ -110,7 +107,7 @@ A C++17 tool that parses build/test logs and classifies compiler errors, linker 
 - GoogleTest
 - [GitHub Repo](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
 
-### 3) Concise Summarize
+### Concise Summarize
 A React + Azure OpenAI app that turns transcripts into short, readable summaries.
 
 - React.js
@@ -119,7 +116,7 @@ A React + Azure OpenAI app that turns transcripts into short, readable summaries
 - Azure OpenAI
 - [Live Demo](https://muskankhatwani15.github.io/concise-summarize/)
 
-### 4) Medicaid System
+### Medicaid System
 A healthcare management website with medicine listings, patient queries, and appointment scheduling.
 
 - HTML
@@ -151,7 +148,7 @@ I regularly solve algorithmic problems focusing on:
 
 B.E. in Information Science and Engineering  
 Nitte Meenakshi Institute of Technology, Bangalore  
-2018 — 2022  
+2018 - 2022  
 CGPA: 8.84
 
 ## GitHub Stats
