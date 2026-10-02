@@ -103,7 +103,6 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 
 ## Project Links
 
-- [Portfolio Website](https://muskankhatwani15.github.io/)
 - [TCP Chat Server](https://github.com/muskankhatwani15/chatapp)
 - [Log Analyzer](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
 - [Concise Summarize](https://muskankhatwani15.github.io/concise-summarize/)
