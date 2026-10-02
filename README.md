@@ -41,6 +41,10 @@
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ## About Me
 
 I am a Software Engineer with hands-on experience in C++, AB Suite, low-level debugging, runtime issue analysis, and enterprise software troubleshooting. I enjoy solving production problems, understanding execution flow, and building reliable systems that scale.
@@ -102,11 +106,19 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![Trees](https://img.shields.io/badge/Trees-BST_Heaps_Traversal-FF7F50?style=for-the-badge)
 ![DP](https://img.shields.io/badge/DP-Top_Down_Bottom_Up-FFD43B?style=for-the-badge)
 
+## Project Links
+
+- [Portfolio Website](https://muskankhatwani15.github.io/)
+- [TCP Chat Server](https://github.com/muskankhatwani15/chatapp)
+- [Log Analyzer](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
+- [Concise Summarize](https://muskankhatwani15.github.io/concise-summarize/)
+- [Medicaid System](https://muskankhatwani15.github.io/Medicaid/)
+
 ## Experience Snapshot
 
 ### Software Engineer
 Unisys, Bangalore  
-March 2025 - Present
+March 2025 — Present
 
 - Designed and implemented features in AB Suite across releases v7.0–v10.0.
 - Fixed production issues involving label/jump handling, debugger logic, and runtime execution flow.
@@ -115,7 +127,7 @@ March 2025 - Present
 
 ### Associate Software Engineer
 Unisys, Bangalore  
-August 2022 - February 2025
+August 2022 — February 2025
 
 - Contributed to AB Suite development across 40+ interconnected modules.
 - Resolved build failures, linker issues, runtime crashes, and Windows/Linux environment problems.
@@ -126,18 +138,38 @@ August 2022 - February 2025
 
 ### TCP Chat Server
 A multithreaded C++ chat server using Winsock2 with real-time broadcast messaging and thread-safe state management.
+
+- C++
+- Winsock2
+- std::thread
+- std::mutex
+- RAII + smart pointers
 - [GitHub Repo](https://github.com/muskankhatwani15/chatapp)
 
 ### Log Analyzer
-A C++17 tool that parses build/test logs and classifies compiler errors, linker errors, and test failures
+A C++17 tool that parses build/test logs and classifies compiler errors, linker errors, and test failures.
+
+- C++17
+- STL
+- CMake
+- GoogleTest
 - [GitHub Repo](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
 
 ### Concise Summarize
 A React + Azure OpenAI app that turns transcripts into short, readable summaries.
+
+- React.js
+- Vite
+- Tailwind CSS
+- Azure OpenAI
 - [Live Demo](https://muskankhatwani15.github.io/concise-summarize/)
 
 ### Medicaid System
 A healthcare management website with medicine listings, patient queries, and appointment scheduling.
+
+- HTML
+- CSS
+- PHP
 - [Live Demo](https://muskankhatwani15.github.io/Medicaid/)
 
 ## Open Source Contribution
@@ -146,13 +178,14 @@ I contributed to `fmtlib/fmt` and worked on a GCC 16 LTO warning fix related to 
 
 - Project: [fmtlib/fmt](https://github.com/fmtlib/fmt)
 - Fix: `digits10() + 2` → `digits10() + 3`
+- Validation: GCC/G++ 16.2.0 with LTO and CMake/MSYS2 UCRT64
 - Result: warning removed in the full fmt build, with 47 checks passing
 
 ## Education
 
 B.E. in Information Science and Engineering  
 Nitte Meenakshi Institute of Technology, Bangalore  
-2018 - 2022  
+2018 — 2022  
 CGPA: 8.84
 
 ## GitHub Stats
