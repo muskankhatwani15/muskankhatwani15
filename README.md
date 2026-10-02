@@ -39,11 +39,6 @@
   <a href="mailto:muskankhatwani15@gmail.com"><img src="https://img.shields.io/badge/Email-muskankhatwani15%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/MuskanKhatwani1234/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-MuskanKhatwani1234-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
-
-<p align="center">
-  <a href="https://muskankhatwani15.github.io/" target="_blank">🌐 Portfolio</a>
 </p>
 
 ## About Me
@@ -182,17 +177,6 @@ I contributed to `fmtlib/fmt` and worked on a GCC 16 LTO warning fix related to 
 - Validation: GCC/G++ 16.2.0 with LTO and CMake/MSYS2 UCRT64
 - Result: warning removed in the full fmt build, with 47 checks passing
 
-## DSA Practice
-
-I regularly solve algorithmic problems focusing on:
-
-- Arrays, strings, hashes, sorting, and searching
-- Stacks, queues, trees, graphs, and heaps
-- Dynamic programming and greedy approaches
-- Recursion, backtracking, and optimization
-
-[LeetCode Profile](https://leetcode.com/u/MuskanKhatwani1234/)
-
 ## Education
 
 B.E. in Information Science and Engineering  
@@ -210,9 +194,7 @@ CGPA: 8.84
 ## Contact
 
 - Email: [muskankhatwani15@gmail.com](mailto:muskankhatwani15@gmail.com)
-- Portfolio: [muskankhatwani15.github.io](https://muskankhatwani15.github.io/)
 - GitHub: [github.com/muskankhatwani15](https://github.com/muskankhatwani15)
 - LinkedIn: [linkedin.com/in/muskankhatwani15](https://www.linkedin.com/in/muskankhatwani15)
-- LeetCode: [leetcode.com/u/MuskanKhatwani1234](https://leetcode.com/u/MuskanKhatwani1234/)
 
 > Open to opportunities in C++, systems engineering, debugging, DSA, and enterprise software development.
