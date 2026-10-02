@@ -102,14 +102,6 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![Trees](https://img.shields.io/badge/Trees-BST_Heaps_Traversal-FF7F50?style=for-the-badge)
 ![DP](https://img.shields.io/badge/DP-Top_Down_Bottom_Up-FFD43B?style=for-the-badge)
 
-## Project Links
-
-- [Portfolio Website](https://muskankhatwani15.github.io/)
-- [TCP Chat Server](https://github.com/muskankhatwani15/chatapp)
-- [Log Analyzer](https://github.com/MuskanKhatwani/Log-Analyzer-Tool)
-- [Concise Summarize](https://muskankhatwani15.github.io/concise-summarize/)
-- [Medicaid System](https://muskankhatwani15.github.io/Medicaid/)
-
 ## Experience Snapshot
 
 ### Software Engineer
