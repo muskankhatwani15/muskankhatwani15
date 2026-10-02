@@ -1,14 +1,49 @@
 # Muskan Khatwani
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B5BFD&center=true&vCenter=true&width=700&lines=Software+Engineer;C%2B%2B+%7C+AB+Suite;Debugging+%7C+Systems+Engineering;DSA+%7C+Problem+Solving;Open-Source+Contributor" alt="Typing SVG" />
+<svg width="860" height="90" viewBox="0 0 860 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muskan Khatwani animated title">
+  <defs>
+    <linearGradient id="bgGlow" x1="0" x2="860" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.2" stop-color="#111827"/>
+      <stop offset="0.5" stop-color="#1F2937"/>
+      <stop offset="0.8" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" x2="1">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="840" height="70" rx="18" fill="url(#bgGlow)" stroke="#2D3748"/>
+  <rect x="30" y="24" width="330" height="42" rx="12" fill="#0F172A" stroke="#334155"/>
+  <text x="195" y="52" text-anchor="middle" font-size="22" font-family="Verdana, Arial, sans-serif" font-weight="700" fill="#E2E8F0">Software Engineer</text>
+  <text x="430" y="52" text-anchor="middle" font-size="20" font-family="Verdana, Arial, sans-serif" fill="#93C5FD">C++ • AB Suite • DSA</text>
+  <text x="690" y="52" text-anchor="middle" font-size="20" font-family="Verdana, Arial, sans-serif" fill="#A7F3D0">Open Source</text>
+  <path d="M30 58H830" stroke="url(#lineGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 800;220 580;0 800" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="30" cy="58" r="6" fill="#60A5FA">
+    <animate attributeName="cx" values="30;830;30" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="830" cy="58" r="6" fill="#34D399">
+    <animate attributeName="cx" values="830;30;830" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 </p>
 
 <p align="center">
   <a href="mailto:muskankhatwani15@gmail.com"><img src="https://img.shields.io/badge/Email-muskankhatwani15%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/GitHub-muskankhatwani15-181717?logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muskankhatwani15" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Muskankhatwani15-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://muskankhatwani15.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-0A0F1E?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/MuskanKhatwani1234/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-MuskanKhatwani1234-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
+
+<p align="center">
+  <a href="https://muskankhatwani15.github.io/" target="_blank">🌐 Portfolio</a>
 </p>
 
 ## About Me
@@ -28,17 +63,35 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 
 ## Tech Stack
 
-### Languages
+### Core C++ / Systems
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![STL](https://img.shields.io/badge/STL-Templates_Iterators_Algorithms-00599C?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Classes_Inheritance_Polymorphism-FF6B6B?style=for-the-badge)
+![RAII](https://img.shields.io/badge/RAII-Smart_Pointers_Memory_Management-10B3A3?style=for-the-badge)
+![Threads](https://img.shields.io/badge/Threads-std%3A%3Athread_Mutex_Condition_Variables-8B5CF6?style=for-the-badge)
+![Sockets](https://img.shields.io/badge/Sockets-Winsock2_TCP_UDP-3B82F6?style=for-the-badge)
+![WinDbg](https://img.shields.io/badge/WinDbg-Debugging_Analysis-000000?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-Build_System-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-Compiler_Analysis-43A047?style=for-the-badge&logo=gcc&logoColor=white)
+![MSVC](https://img.shields.io/badge/MSVC-Windows_Compiler-5C2D91?style=for-the-badge)
+
+### Languages & Backend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System_Engineering-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo_Management-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud_DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Frontend / Backend / Tools
+### Frontend / Web
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,17 +99,13 @@ With 4 years of experience, I work across large C++ codebases, debugger workflow
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### DSA / Problem Solving
 
-![Data%20Structures](https://img.shields.io/badge/DSA-Arrays_Strings_Stacks_Queues-8A2BE2?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Arrays_Stacks_Queues_Strings-8A2BE2?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Graphs-DFS_BFS_Weighted-00C7B7?style=for-the-badge)
 ![Trees](https://img.shields.io/badge/Trees-BST_Heaps_Traversal-FF7F50?style=for-the-badge)
-![Dynamic%20Programming](https://img.shields.io/badge/Dynamic_Programming-Top-Down_Bottom-Up-FFD43B?style=for-the-badge)
+![DP](https://img.shields.io/badge/DP-Top_Down_Bottom_Up-FFD43B?style=for-the-badge)
 
 ## Project Links
 
@@ -148,7 +197,7 @@ I regularly solve algorithmic problems focusing on:
 
 B.E. in Information Science and Engineering  
 Nitte Meenakshi Institute of Technology, Bangalore  
-2018 - 2022  
+2018 — 2022  
 CGPA: 8.84
 
 ## GitHub Stats
